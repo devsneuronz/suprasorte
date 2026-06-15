@@ -1,0 +1,80 @@
+{
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "68a858a5-b35a-4c00-bade-e98bd859dd45",
+        "name": "Date",
+        "designId": "bfbab27e-4e1d-4ab4-be1d-3425de1e162d",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    },
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "765d1579-9eba-481e-bdcd-1e53feb57c56",
+        "name": "Charts",
+        "designId": "bfbab27e-4e1d-4ab4-be1d-3425de1e162d",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "30356906-e120-41ee-809c-3ab129739df5",
+        "name": "REST API",
+        "designId": "bfbab27e-4e1d-4ab4-be1d-3425de1e162d",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "29809245-a5ea-4687-af79-952998abab22": {
+        "id": "3e3f9d27-0b92-4bac-acfe-0f96b488fe58",
+        "name": "Airtable",
+        "designId": "bfbab27e-4e1d-4ab4-be1d-3425de1e162d",
+        "pluginId": "29809245-a5ea-4687-af79-952998abab22",
+        "publicData": {}
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "31caa17e-2609-45fd-bbe2-4b2313e7f69d",
+        "name": "Supabase",
+        "designId": "bfbab27e-4e1d-4ab4-be1d-3425de1e162d",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNkZnJlZnd3ZnlvcnNhY2poaHFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUyMTI3MjEsImV4cCI6MjA4MDc4ODcyMX0.qKxj4zjodMjnOSuI_Tq4uA62pw3m79B5K2LY3ChZUCk",
+            "projectUrl": "https://sdfrefwwfyorsacjhhqe.supabase.co",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNkZnJlZnd3ZnlvcnNhY2poaHFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUyMTI3MjEsImV4cCI6MjA4MDc4ODcyMX0.qKxj4zjodMjnOSuI_Tq4uA62pw3m79B5K2LY3ChZUCk",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://sdfrefwwfyorsacjhhqe.supabase.co",
+                    "baseProjectRef": "sdfrefwwfyorsacjhhqe"
+                }
+            },
+            "realtimeTables": {
+                "chats": true,
+                "messages": true,
+                "instances": true
+            }
+        }
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "0a0d019b-e8e4-48a8-878b-4b9209047304",
+        "name": "Supabase Auth",
+        "designId": "bfbab27e-4e1d-4ab4-be1d-3425de1e162d",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNkZnJlZnd3ZnlvcnNhY2poaHFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUyMTI3MjEsImV4cCI6MjA4MDc4ODcyMX0.qKxj4zjodMjnOSuI_Tq4uA62pw3m79B5K2LY3ChZUCk",
+            "roleTable": "roles",
+            "projectUrl": "https://sdfrefwwfyorsacjhhqe.supabase.co",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNkZnJlZnd3ZnlvcnNhY2poaHFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUyMTI3MjEsImV4cCI6MjA4MDc4ODcyMX0.qKxj4zjodMjnOSuI_Tq4uA62pw3m79B5K2LY3ChZUCk",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://sdfrefwwfyorsacjhhqe.supabase.co",
+                    "baseProjectRef": "sdfrefwwfyorsacjhhqe"
+                }
+            },
+            "userRoleTable": "users_roles",
+            "roleTableNameColumn": "name",
+            "afterForbiddenPageId": "a91a7388-b87f-4857-80de-c9693b3ce8e9",
+            "afterNotSignInPageId": "a91a7388-b87f-4857-80de-c9693b3ce8e9",
+            "userRoleTableRoleColumn": "role_id",
+            "userRoleTableUserColumn": "user_id"
+        }
+    }
+}
